@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Quiz04-Juarez/1.0.0": {
+        "runtime": {
+          "Quiz04-Juarez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quiz04-Juarez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\wwstudent\quantico06\ISTA220\homework\Quiz3-Juarez\bin\Debug\Quiz3-Juarez.exe.config
+C:\Users\wwstudent\quantico06\ISTA220\homework\Quiz3-Juarez\bin\Debug\Quiz3-Juarez.exe
+C:\Users\wwstudent\quantico06\ISTA220\homework\Quiz3-Juarez\bin\Debug\Quiz3-Juarez.pdb
+C:\Users\wwstudent\quantico06\ISTA220\homework\Quiz3-Juarez\obj\Debug\Quiz3-Juarez.csprojAssemblyReference.cache
+C:\Users\wwstudent\quantico06\ISTA220\homework\Quiz3-Juarez\obj\Debug\Quiz3-Juarez.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\quantico06\ISTA220\homework\Quiz3-Juarez\obj\Debug\Quiz3-Juarez.exe
+C:\Users\wwstudent\quantico06\ISTA220\homework\Quiz3-Juarez\obj\Debug\Quiz3-Juarez.pdb

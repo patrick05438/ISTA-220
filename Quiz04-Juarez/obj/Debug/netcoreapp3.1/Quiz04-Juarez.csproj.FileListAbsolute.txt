@@ -1,0 +1,13 @@
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\bin\Debug\netcoreapp3.1\Quiz04-Juarez.exe
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\bin\Debug\netcoreapp3.1\Quiz04-Juarez.deps.json
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\bin\Debug\netcoreapp3.1\Quiz04-Juarez.runtimeconfig.json
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\bin\Debug\netcoreapp3.1\Quiz04-Juarez.runtimeconfig.dev.json
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\bin\Debug\netcoreapp3.1\Quiz04-Juarez.dll
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\bin\Debug\netcoreapp3.1\Quiz04-Juarez.pdb
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\obj\Debug\netcoreapp3.1\Quiz04-Juarez.csprojAssemblyReference.cache
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\obj\Debug\netcoreapp3.1\Quiz04-Juarez.AssemblyInfoInputs.cache
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\obj\Debug\netcoreapp3.1\Quiz04-Juarez.AssemblyInfo.cs
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\obj\Debug\netcoreapp3.1\Quiz04-Juarez.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\obj\Debug\netcoreapp3.1\Quiz04-Juarez.dll
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\obj\Debug\netcoreapp3.1\Quiz04-Juarez.pdb
+C:\Users\wwstudent\quantico06\ISTA220\Quiz\Quiz04-Juarez\obj\Debug\netcoreapp3.1\Quiz04-Juarez.genruntimeconfig.cache
